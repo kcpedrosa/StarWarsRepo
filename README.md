@@ -1,3 +1,3 @@
 # StarWarsRepo
-![./vader.png](Darth Vader, greatest sit, our master)
-Este repositorio serve de exemplo para o curso de Git e GitHub
+!["Darth Vader, greatest Sith"](./vader.png)
+Este repositório serve de exemplo para o curso de Git e GitHub
